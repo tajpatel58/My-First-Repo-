@@ -7,3 +7,5 @@ def sum_of_n_sqrd(n):
     for j in range(1, n+1):
         total = total + j**2
     return total
+
+print(sum_of_n_sqrd(30))
