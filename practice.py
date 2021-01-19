@@ -9,3 +9,4 @@ def sum_of_n_cubed(n):
     return total
 
 print(sum_of_n_cubed(3))
+print(sum_of_n_cubed(10))
