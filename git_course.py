@@ -8,4 +8,4 @@ def sum_of_n_sqrd(n):
         total = total + j**2
     return total
 
-print(sum_of_n_sqrd(30))
+print(sum_of_n_sqrd(50))
